@@ -1,6 +1,6 @@
 # Deep Learning
 
-#Objetivo
+# Objetivo
 
 O projeto tem como objetivo classificar imagens em 4 classes de animais sendo eles: cachorro, cavalo, gato e porco.
 
