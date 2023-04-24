@@ -1,6 +1,6 @@
 # Projeto Final - Modelos Preditivos Conexionistas
 
-### Nome do aluno
+### Rafael George de Moraes Cruz
 
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
