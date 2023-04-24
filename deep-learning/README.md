@@ -2,9 +2,9 @@
 
 ### Nome do aluno
 
-|**Classificação de Imagens**|**Modelo Selecionado**|**PyTorch**|
+|**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
-ex.: YOLOv5|PyTorch ou Tensorflow|
+|Classificação de Imagens|ex.: YOLOv5|PyTorch ou Tensorflow|
 
 ## Performance
 
