@@ -31,8 +31,6 @@ Exemplo de adição de imagem:
 
 [Animais](https://universe.roboflow.com/cesar-kkubx/deep-learning-animals/dataset/1)
 
-Exemplo de link: [Nome do link](google.com)
-
 ## HuggingFace
 
 Nessa seção você deve publicar o link para o HuggingFace
