@@ -121,17 +121,13 @@ Epoch 25: saving model to training_1/cp.ckpt
 
 ### Evidências do treinamento
 
-Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
   
-  <img src='./gráficos/graficos.png' alt='gráficos'/>
+  <img src='./assets/graficos.png' alt='gráficos'/>
 
-
-Exemplo de adição de imagem:
-![Descrição](https://picsum.photos/seed/picsum/500/300)
 
 ## Roboflow
 
-[Animais](https://universe.roboflow.com/cesar-kkubx/deep-learning-animals/dataset/1)
+[Animais](https://universe.roboflow.com/cesar-kkubx/deep-learning-animals/dataset/2)
 
 ## HuggingFace
 
