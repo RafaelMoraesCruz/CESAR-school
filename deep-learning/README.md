@@ -122,15 +122,9 @@ Epoch 25: saving model to training_1/cp.ckpt
 ### Evidências do treinamento
 
 Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
-
-<details>
-  <summary>Click to expand!</summary>
   
-  ```text
-    Você deve colar aqui a saída do bloco de treinamento do notebook, contendo todas as épocas e saídas do treinamento
-    ![Descrição](https://picsum.photos/seed/picsum/500/300)
-  ```
-</details>
+  <img src='./gráficos/graficos.png' alt='gráficos'/>
+
 
 Exemplo de adição de imagem:
 ![Descrição](https://picsum.photos/seed/picsum/500/300)
