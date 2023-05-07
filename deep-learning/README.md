@@ -129,6 +129,17 @@ Epoch 25: saving model to training_1/cp.ckpt
 
 [Animais](https://universe.roboflow.com/cesar-kkubx/deep-learning-animals/dataset/2)
 
-## HuggingFace
+## Estrutura
 
-Nessa seção você deve publicar o link para o HuggingFace
+```
+├── animais (todas as fotos dos animais)
+├── assets (Imagens recolhidas do treinamento)
+  └── gráficos.png
+├── dataset-roboflow (dataset resgatado do roboflow para atividade do dataset !importante lembrar que o dataset sofreu modificações para o treinamento. foi usado a versão final no site.)
+├── dataset (pasta gerada pelo script de conversor.py com o intuito de separar melhor as imagens)
+├── models (gerado pelo treinamento)
+├── DeepLearning_atividade_final.ipynb (Treinamento do modelo)
+├── README.md
+├── conversor.py
+
+
